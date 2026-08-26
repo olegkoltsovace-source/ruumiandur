@@ -6,6 +6,7 @@ loeb see arvuti enda andureid — mida ise parasjagu käes on.
 ## Käivitamine
 
 pip install -r requirements.txt
+
 python app.py
 
 ## Mis see teeb
